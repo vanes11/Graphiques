@@ -1,0 +1,112 @@
+B14
+Nombre de programmes: 469627
+Nombre de mauvais programmes: 1770
+Nombre de bon programmes: 467857
+Pourcentage mauvais programmes: 0.3768948548528939
+Pourcentage de bon programmes: 99.62310514514711
+***
+B9
+Nombre de programmes: 469627
+Nombre de mauvais programmes: 1770
+Nombre de bon programmes: 467857
+Pourcentage mauvais programmes: 0.3768948548528939
+Pourcentage de bon programmes: 99.62310514514711
+***
+B16
+Nombre de programmes: 14437
+Nombre de mauvais programmes: 14211
+Nombre de bon programmes: 226
+Pourcentage mauvais programmes: 98.43457782087691
+Pourcentage de bon programmes: 1.5654221791230865
+***
+B15
+Nombre de programmes: 31
+Nombre de mauvais programmes: 10
+Nombre de bon programmes: 21
+Pourcentage mauvais programmes: 32.25806451612903
+Pourcentage de bon programmes: 67.74193548387096
+***
+B7
+Nombre de programmes: 49
+Nombre de mauvais programmes: 48
+Nombre de bon programmes: 1
+Pourcentage mauvais programmes: 97.95918367346938
+Pourcentage de bon programmes: 2.0408163265306123
+***
+B12
+Nombre de programmes: 2055533
+Nombre de mauvais programmes: 1730632
+Nombre de bon programmes: 324901
+Pourcentage mauvais programmes: 84.19383196475076
+Pourcentage de bon programmes: 15.806168035249252
+***
+B10
+Nombre de programmes: 181
+Nombre de mauvais programmes: 60
+Nombre de bon programmes: 121
+Pourcentage mauvais programmes: 33.14917127071823
+Pourcentage de bon programmes: 66.85082872928176
+***
+B3
+Nombre de programmes: 101
+Nombre de mauvais programmes: 100
+Nombre de bon programmes: 1
+Pourcentage mauvais programmes: 99.00990099009901
+Pourcentage de bon programmes: 0.9900990099009901
+***
+B8
+Nombre de programmes: 1500229
+Nombre de mauvais programmes: 1241211
+Nombre de bon programmes: 259018
+Pourcentage mauvais programmes: 82.73476915857513
+Pourcentage de bon programmes: 17.265230841424874
+***
+B6
+Nombre de programmes: 95547
+Nombre de mauvais programmes: 0
+Nombre de bon programmes: 95547
+Pourcentage mauvais programmes: 0.0
+Pourcentage de bon programmes: 100.0
+***
+B1
+Nombre de programmes: 6481
+Nombre de mauvais programmes: 6480
+Nombre de bon programmes: 1
+Pourcentage mauvais programmes: 99.98457028236383
+Pourcentage de bon programmes: 0.015429717636167257
+***
+B13
+Nombre de programmes: 779077
+Nombre de mauvais programmes: 4676
+Nombre de bon programmes: 774401
+Pourcentage mauvais programmes: 0.6001974130926725
+Pourcentage de bon programmes: 99.39980258690733
+***
+B5
+Nombre de programmes: 2089549
+Nombre de mauvais programmes: 2089548
+Nombre de bon programmes: 1
+Pourcentage mauvais programmes: 99.99995214278297
+Pourcentage de bon programmes: 4.785721703582926e-05
+***
+B11
+Nombre de programmes: 469627
+Nombre de mauvais programmes: 1770
+Nombre de bon programmes: 467857
+Pourcentage mauvais programmes: 0.3768948548528939
+Pourcentage de bon programmes: 99.62310514514711
+***
+B4
+Nombre de programmes: 10297
+Nombre de mauvais programmes: 10296
+Nombre de bon programmes: 1
+Pourcentage mauvais programmes: 99.99028843352433
+Pourcentage de bon programmes: 0.009711566475672525
+***
+B2
+Nombre de programmes: 27397
+Nombre de mauvais programmes: 9096
+Nombre de bon programmes: 18301
+Pourcentage mauvais programmes: 33.20071540679636
+Pourcentage de bon programmes: 66.79928459320364
+***
